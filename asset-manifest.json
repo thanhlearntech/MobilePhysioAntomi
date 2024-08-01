@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MobilePhysioAntomi/static/css/main.cf68c20d.css",
+    "main.css": "/MobilePhysioAntomi/static/css/main.b7e29cb1.css",
     "main.js": "/MobilePhysioAntomi/static/js/main.2fba9476.js",
     "static/media/Physio2.mp4": "/MobilePhysioAntomi/static/media/Physio2.deca258f98393b33c39f.mp4",
     "static/media/img9.jpg": "/MobilePhysioAntomi/static/media/img9.95c9d25f79b4bd27faae.jpg",
@@ -13,11 +13,11 @@
     "static/media/img2.avif": "/MobilePhysioAntomi/static/media/img2.a62a20f586c163f19672.avif",
     "static/media/img6.avif": "/MobilePhysioAntomi/static/media/img6.e5c693f2a60ceb80bdb7.avif",
     "index.html": "/MobilePhysioAntomi/index.html",
-    "main.cf68c20d.css.map": "/MobilePhysioAntomi/static/css/main.cf68c20d.css.map",
+    "main.b7e29cb1.css.map": "/MobilePhysioAntomi/static/css/main.b7e29cb1.css.map",
     "main.2fba9476.js.map": "/MobilePhysioAntomi/static/js/main.2fba9476.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf68c20d.css",
+    "static/css/main.b7e29cb1.css",
     "static/js/main.2fba9476.js"
   ]
 }
