@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MobilePhysioAntomi/static/css/main.b7e29cb1.css",
-    "main.js": "/MobilePhysioAntomi/static/js/main.2fba9476.js",
-    "static/media/Physio2.mp4": "/MobilePhysioAntomi/static/media/Physio2.deca258f98393b33c39f.mp4",
+    "main.js": "/MobilePhysioAntomi/static/js/main.a7216f21.js",
+    "static/media/Physio.mp4": "/MobilePhysioAntomi/static/media/Physio.bebb989ec3dc3a49ea7e.mp4",
     "static/media/img9.jpg": "/MobilePhysioAntomi/static/media/img9.95c9d25f79b4bd27faae.jpg",
     "static/media/img.jpg": "/MobilePhysioAntomi/static/media/img.d8ce770c92981d79e941.jpg",
     "static/media/img8.avif": "/MobilePhysioAntomi/static/media/img8.cade54aad110f296ea24.avif",
@@ -14,10 +14,10 @@
     "static/media/img6.avif": "/MobilePhysioAntomi/static/media/img6.e5c693f2a60ceb80bdb7.avif",
     "index.html": "/MobilePhysioAntomi/index.html",
     "main.b7e29cb1.css.map": "/MobilePhysioAntomi/static/css/main.b7e29cb1.css.map",
-    "main.2fba9476.js.map": "/MobilePhysioAntomi/static/js/main.2fba9476.js.map"
+    "main.a7216f21.js.map": "/MobilePhysioAntomi/static/js/main.a7216f21.js.map"
   },
   "entrypoints": [
     "static/css/main.b7e29cb1.css",
-    "static/js/main.2fba9476.js"
+    "static/js/main.a7216f21.js"
   ]
 }
